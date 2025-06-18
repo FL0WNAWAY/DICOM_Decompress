@@ -1,6 +1,2 @@
 streamlit
-os
 pydicom
-io
-tempfile
-zipfile
